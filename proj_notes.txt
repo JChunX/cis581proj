@@ -1,0 +1,10 @@
+CIS 581 Project
+
+Inverse perspective mapping & image stitching
+
+
+Useful links
+
+https://github.com/ika-rwth-aachen/Cam2BEV/blob/master/preprocessing/ipm/README.md
+
+https://developer.ridgerun.com/wiki/index.php/Birds_Eye_View/Introduction/Research
